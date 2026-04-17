@@ -306,9 +306,7 @@ Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. Irvine, CA: Unive
 
 ## 👤 Author
 
-**Data Engineer | Healthcare Analytics**  
-[Your Name]  
-[LinkedIn](your-linkedin) | [GitHub](your-github)
+Hitesh Allakki
 
 ---
 
