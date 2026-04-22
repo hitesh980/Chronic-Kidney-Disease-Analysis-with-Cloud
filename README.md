@@ -316,11 +316,6 @@ Hitesh Allakki
 - Databricks documentation and community
 - Apache Spark community
 
----
 
-## 📞 Contact
 
-For questions or collaboration opportunities, please reach out via:
-- LinkedIn: [Your Profile]
-- Email: [Your Email]
-- GitHub Issues: [Repository Issues]
+
